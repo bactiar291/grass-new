@@ -43,5 +43,4 @@ Setelah menginstal dependensi dan menyiapkan konfigurasi, Anda bisa menjalankan 
    BACTIAR291
    coffe for me :
    0x648dce97a403468dfc02c793c2b441193fccf77b
-   LFG
     
