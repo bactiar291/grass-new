@@ -14,7 +14,7 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal semua dependensi 
    python main.py
     ```bash
     pip install -r requirements.txt
-    python main.py
+    
     ```
 3. Konfigurasi
 Buat file JSON dengan format berikut untuk menyimpan data akun Anda. Simpan file ini dengan nama users.json.
@@ -35,7 +35,7 @@ Catatan: Gantilah "USERxxxx" dengan ID pengguna Anda.
 4. Menjalankan Proyek
 Setelah menginstal dependensi dan menyiapkan konfigurasi, Anda bisa menjalankan proyek dengan perintah:
     ```bash
-   python main.py
+   python3 main.py
 
     ```
 
