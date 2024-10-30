@@ -9,6 +9,7 @@ kalian pastekan perintah diatas di area console, maka kalian akan melihat hasiln
 
 ![Gambar](https://github.com/bactiar291/grass-new/raw/main/ss.png)
 
+![Gambar](https://github.com/bactiar291/grass-new/raw/main/ss2.png)
 
 
 ## Cara Menggunakan
