@@ -2,12 +2,12 @@
 ## SEMOGA BERMANFAAT 
 
 
-jika kalian kesulitan dalam mencari user id , kalian bisa masuk ke dashboard grass kalian dahulu https://app.getgrass.io/register/?referralCode=F8tLhXJOw79byTj
-lalu "inspeksi" dan salin perintah dibawah ini 
+## jika kalian kesulitan dalam mencari user id , kalian bisa masuk ke dashboard grass kalian dahulu https://app.getgrass.io/register/?referralCode=F8tLhXJOw79byTj
+# lalu "inspeksi" dan salin perintah dibawah ini 
    ```bash
 localStorage.getItem('userId')
    ```
-kalian pastekan perintah diatas di area console, maka kalian akan melihat hasilnya
+## kalian pastekan perintah diatas di area console, maka kalian akan melihat hasilnya
 
 ![Gambar](https://github.com/bactiar291/grass-new/raw/main/ss.png)
 
