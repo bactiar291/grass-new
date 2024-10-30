@@ -7,6 +7,7 @@ localStorage.getItem('userId')
    ```
 kalian pastekan perintah diatas di area console, maka kalian akan melihat hasilnya
 
+![Gambar](https://github.com/bactiar291/grass-new/raw/main/ss.png)
 
 
 
